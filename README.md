@@ -1,4 +1,4 @@
-### fat-recon
+### Fat-Recon
 
 A utility for extracting deletes files from FAT12, FAT16, and FAT32 filesystems without mounting the drive. This tool reads the filesystem structure directly from the raw device or disk image, making it useful for data recovery, forensic analysis, or working with corrupted filesystems that cannot be mounted normally.
 
